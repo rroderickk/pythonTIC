@@ -1,0 +1,234 @@
+
+{
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"files.autoSave": "afterDelay",
+	"liveServer.settings.CustomBrowser": "microsoft-edge",
+	"kite.showWelcomeNotificationOnStartup": false,
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"editor.fontLigatures": true,
+	"editor.tabCompletion": "on",
+	"powermode.enabled": true,
+	"powermode.maxExplosions": 10,
+	"git.fetchOnPull": false,
+	"code-runner.clearPreviousOutput": true,
+	"glassit.alpha": 235,
+	"workbench.sideBar.location": "right",
+	"workbench.editorAssociations": {
+		"*.pdf": "default"
+	},
+	"vim.easymotion": true,
+	"vim.incsearch": true,
+	"vim.useSystemClipboard": true,
+	"vim.useCtrlKeys": true,
+	"vim.hlsearch": true,
+	"vim.insertModeKeyBindings": [
+		{
+			"before": ["j", "j"],
+			"after": ["<Esc>"]
+		},
+		{
+			"before": ["h", "h"],
+			"after": ["<Esc>"]
+		},
+		{
+			"before": ["k", "k"],
+			"after": ["<Esc>"]
+		}
+	],
+
+	"vim.normalModeKeyBindingsNonRecursive": [
+		{
+			"before": ["<leader>", "d"],
+			"after": ["d", "d"]
+		},
+		{
+			"before": ["<C-n>"],
+			"commands": [":nohl"]
+		}
+	],
+	"vim.leader": "<space>",
+	"vim.handleKeys": {
+		"<C-a>": false,
+		"<C-f>": false
+	},
+
+	"sync.gist": "ddcf965de3de1a942df4631b4f990687",
+	"editor.accessibilitySupport": "off",
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"prettier.tabWidth": 4,
+	"markdown-preview-enhanced.codeBlockTheme": "atom-dark.css",
+	"markdown-preview-enhanced.previewTheme": "gothic.css",
+	"markdown-preview-enhanced.revealjsTheme": "night.css",
+	"editor.fontSize": 20,
+	"workbench.colorTheme": "matrixResolutions4128-4",
+	"oneDarkPro.bold": true,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"prettier.useTabs": true,
+	"codesnap.transparentBackground": true,
+	"workbench.preferredDarkColorTheme": "Abyss",
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[python]": {
+		"editor.defaultFormatter": "ms-python.python"
+	},
+	"editor.tabSize": 2,
+	"better-comments.tags": [
+		{
+			"tag": "!",
+			"color": "#FF2D00",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "?",
+			"color": "#3498DB",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "//",
+			"color": "#474747",
+			"strikethrough": true,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "todo",
+			"color": "#FF8C00",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "//$",
+			"color": "#FF8C00",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "black",
+			"bold": true,
+			"italic": false
+		},
+		{
+			"tag": "*",
+			"color": "#98C379",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		}
+	],
+	"editor.fontFamily": "'Cascadia Code','Hack Nerd Font',Consolas,'Lucida Console', Monospace",
+	"editor.cursorBlinking": "expand",
+	"editor.cursorSmoothCaretAnimation": true,
+	"workbench.colorCustomizations": {
+		"editorCursor.foreground": "#ffff00",
+		"terminalCursor.foreground": "#ffff00",
+		"editor.selectionHighlightBackground": "#11cdee19",
+		"editor.selectionBackground": "#ff000081",
+		"activityBar.activeBackground": "#3a3a3a",
+		"activityBar.activeBorder": "#787828",
+		"activityBar.background": "#3a3a3a",
+		"activityBar.foreground": "#e7e7e7",
+		"activityBar.inactiveForeground": "#e7e7e799",
+		"activityBarBadge.background": "#787828",
+		"activityBarBadge.foreground": "#e7e7e7",
+		"sash.hoverBorder": "#3a3a3a",
+		"statusBar.background": "#212121",
+		"statusBar.foreground": "#e7e7e7",
+		"statusBarItem.hoverBackground": "#3a3a3a",
+		"statusBarItem.remoteBackground": "#212121",
+		"statusBarItem.remoteForeground": "#e7e7e7",
+		"titleBar.activeBackground": "#212121",
+		"titleBar.activeForeground": "#e7e7e7",
+		"titleBar.inactiveBackground": "#21212199",
+		"titleBar.inactiveForeground": "#e7e7e799"
+	},
+	"superBG.opacity": 0,
+	"remote.autoForwardPorts": false,
+	"editor.codeLensFontFamily": "Consolas",
+	"editor.smoothScrolling": true,
+	"workbench.preferredHighContrastColorTheme": "matrixResolutions4128",
+	"workbench.preferredLightColorTheme": "Default Dark+",
+	"oneDarkPro.vivid": true,
+	"editor.guides.bracketPairs": "active",
+	"bracketPairColorizer.depreciation-notice": false,
+	"powermode.shake.enabled": false,
+	"powermode.shake.intensity": 0,
+	"powermode.explosions.size": 10,
+	"powermode.explosions.frequency": 1,
+	"powermode.explosions.offset": -1,
+	"powermode.explosions.explosionOrder": "random",
+	"powermode.explosions.duration": 400,
+	"powermode.combo.counterEnabled": "show",
+	"powermode.presets": "exploding-rift",
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"files.associations": {
+		"*.json": "json"
+	},
+	"editor.minimap.maxColumn": 80,
+	"editor.lineHeight": 1.5,
+	"workbench.tree.renderIndentGuides": "always",
+	"zenMode.centerLayout": false,
+	"vim.camelCaseMotion.enable": true,
+	"errorLens.enabled": true,
+	"errorLens.enabledDiagnosticLevels": [
+		"error",
+		"info",
+		"warning"
+	],
+	"editor.inlineSuggest.enabled": true,
+	"zenMode.hideActivityBar": false,
+	"zenMode.hideLineNumbers": false,
+	"zenMode.hideStatusBar": false,
+	"zenMode.hideTabs": false,
+	"github.copilot.advanced": {
+
+	
+	},
+	"github.copilot.enable": {
+
+		"*": true,
+		"yaml": false,
+		"plaintext": false,
+		"markdown": true 
+	},
+	"debug.console.wordWrap": false,
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"vim.highlightedyank.enable": true,
+	"vim.highlightedyank.textColor": "cyan",
+	"[scss]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.bracketPairColorization.enabled": true,
+	"[css]": {
+		"editor.defaultFormatter": "vscode.css-language-features"
+	},
+	"window.zoomLevel": -1
+}

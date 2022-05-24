@@ -1,0 +1,10 @@
+{
+    "clients": [
+        {
+            "name": "Juan",
+            "lastname": "Perez",
+            "age": "20",
+            "amount": "100"
+        }
+    ]
+}
