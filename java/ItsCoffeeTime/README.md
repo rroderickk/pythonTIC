@@ -3,11 +3,12 @@
  #### The class CoffeMachine has three properties: name, price, and type.
 
 
+```java
 My new CoffeMachine in Java
 
-╔╗╔┌─┐┌─┐┌┬┐═╗ ╦┌─┐┬─┐┌─┐┌─┐┌─┐┌─┐
-║║║├┤ └─┐ │ ╔╩╦╝├─┘├┬┘├┤ └─┐└─┐│ │
-╝╚╝└─┘└─┘ ┴ ╩ ╚═┴  ┴└─└─┘└─┘└─┘└─┘
+╔╗╔┌─┐┌─┐┌┬┐═╗ ╦┌─┐┬─┐┌─┐┌─┐┌─┐┌─┐<br/>
+║║║├┤ └─┐ │ ╔╩╦╝├─┘├┬┘├┤ └─┐└─┐│ │<br/>
+╝╚╝└─┘└─┘ ┴ ╩ ╚═┴  ┴└─└─┘└─┘└─┘└─┘<br/>
 
 NestXpresso is started
 Checking if the machine is ready....
@@ -21,3 +22,5 @@ Checking if the machine is ready....
 [0]. Shutdown
 
 [?] Enter number choice: 
+
+```
